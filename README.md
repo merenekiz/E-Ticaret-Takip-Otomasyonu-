@@ -49,4 +49,4 @@ Bu proje, e-ticaret yapan satıcılar için geliştirilmiş bir **takip otomasyo
 
 ---
 
-💡 **Sorularınız mı var?** Bana [LinkedIn]([https://www.linkedin.com/in/mustafa-eren-ekiz-909572293/]) veya [E-posta](mailto:merenekiz@outlook.com) yoluyla ulaşabilirsiniz.  
+💡 **Sorularınız mı var?** Bana [LinkedIn](https://www.linkedin.com/in/mustafa-eren-ekiz-909572293/) veya [E-posta](mailto:merenekiz@outlook.com) yoluyla ulaşabilirsiniz.  
